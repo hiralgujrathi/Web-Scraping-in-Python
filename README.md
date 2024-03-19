@@ -1,2 +1,2 @@
-- In this project, we used **Python's Beautiful Soup package** to extract valuable information by scraping data from an actual website featuring a list of leading companies in the USA. This involved parsing both HTML and XML documents to gather the necessary data.
-- Following this extraction, **Pandas** was used to transform the scraped data into a structured dataframe, which was subsequently exported and stored in a **CSV file** for further utilization.
+In this project, we used **Python's Beautiful Soup package** to extract valuable information by scraping data from an actual website featuring a list of leading companies in the USA. This involved parsing both HTML and XML documents to gather the necessary data.
+Following this extraction, **Pandas** was used to transform the scraped data into a structured dataframe, which was subsequently exported and stored in a **CSV file** for further utilization.
